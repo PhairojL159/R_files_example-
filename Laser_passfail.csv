@@ -1,0 +1,190 @@
+WAFER_ID,DIE_SN,Grade ,Result 
+07D5,H06_02_03,Grade J,FAIL
+07D5,H05_01_04,Grade E,PASS
+07D5,H07_01_03,Grade A,PASS
+07D5,H06_01_01,Grade E,PASS
+07D5,H07_01_04,Grade E,PASS
+07D5,H05_02_02,Grade I,FAIL
+07D5,H07_01_02,Grade G,FAIL
+07D5,H06_02_01,Grade I,FAIL
+07D5,H05_02_01,Grade G,FAIL
+07D5,H08_01_03,Grade I,FAIL
+07D5,H07_02_02,Grade B,FAIL
+07D5,H07_02_03,Grade A,PASS
+07D5,H07_02_04,Grade I,FAIL
+07D5,H06_01_03,Grade A,PASS
+07D5,H06_01_02,Grade A,PASS
+07D5,H06_01_04,Grade I,FAIL
+07D5,B10_02_04,Grade A,PASS
+07D5,H06_02_04,Grade C,FAIL
+07D5,H06_02_02,Grade A,PASS
+07D5,H05_01_02,Grade G,FAIL
+07D5,H05_01_01,Grade B,FAIL
+07D5,H05_02_03,Grade I,FAIL
+07D5,C02_02_03,Grade I,FAIL
+07D5,C02_02_02,Grade G,FAIL
+07D5,C02_02_01,Grade A,PASS
+07D5,C02_01_03,Grade A,PASS
+07D5,C02_01_02,Grade B,FAIL
+07D5,C02_01_01,Grade B,FAIL
+07D5,C02_02_04,Grade J,FAIL
+07D5,B10_02_03,Grade G,FAIL
+07D5,H05_01_03,Grade G,FAIL
+07D5,B09_02_01,Grade E,PASS
+07D5,B09_02_02,Grade A,PASS
+07D5,B09_02_03,Grade I,FAIL
+07D5,B09_02_04,Grade I,FAIL
+07D5,B10_01_01,Grade I,FAIL
+07D5,B10_01_02,Grade A,PASS
+07D5,B10_01_03,Grade C,FAIL
+07D5,B10_01_04,Grade C,FAIL
+07D5,C02_01_04,Grade A,PASS
+07D5,B10_02_01,Grade B,FAIL
+07D5,B10_02_02,Grade A,PASS
+07D5,D07_01_02,Grade E,PASS
+07D5,D07_01_04,Grade G,FAIL
+07D5,D06_02_01,Grade A,PASS
+07D5,D06_01_01,Grade A,PASS
+07D5,D06_02_04,Grade I,FAIL
+07D5,D06_02_03,Grade I,FAIL
+07D5,D06_02_02,Grade G,FAIL
+07D5,D06_01_02,Grade I,FAIL
+07D5,B09_01_03,Grade B,FAIL
+07D5,B09_01_02,Grade A,PASS
+07D5,B09_01_01,Grade I,FAIL
+07D5,D07_01_03 ,Grade I,FAIL
+11C3,F07_02_04,Grade I,FAIL
+11C3,F09_02_01,Grade E,Pass
+11C3,G06_02_03,Grade A,Pass
+11C3,A06_01_03,Grade I,FAIL
+11C3,A06_01_04,Grade J,FAIL
+11C3,F08_02_04,Grade I,FAIL
+11C3,F08_02_01,Grade A,Pass
+11C3,A05_02_03,Grade C,FAIL
+11C3,F07_01_04,Grade G,FAIL
+11C3,G06_01_01,Grade A,Pass
+11C3,G06_01_02,Grade G,FAIL
+11C3,F07_01_02,Grade A,Pass
+11C3,A05_02_02,Grade I,FAIL
+11C3,F08_02_02,Grade I,FAIL
+11C3,F08_02_03,Grade I,FAIL
+11C3,F07_01_01,Grade E,Pass
+11C3,G06_01_03,Grade I,FAIL
+11C3,F09_01_04,Grade E,Pass
+11C3,A05_02_04,Grade B,FAIL
+11C3,F09_02_04,Grade A,Pass
+11C3,B06_02_01,Grade C,FAIL
+11C3,F09_01_03,Grade B,FAIL
+11C3,F09_01_01,Grade I,FAIL
+11C3,A05_01_01,Grade E,Pass
+11C3,F08_01_02,Grade G,FAIL
+11C3,F08_01_03,Grade I,FAIL
+11C3,A05_01_03,Grade G,FAIL
+11C3,F09_01_02,Grade E,Pass
+11C3,F08_01_04,Grade G,FAIL
+11C3,G06_02_04,Grade G,FAIL
+11C3,G06_02_01,Grade A,Pass
+11C3,A05_01_04,Grade I,FAIL
+11C3,F09_02_02,Grade I,FAIL
+11C3,F07_02_01,Grade I,FAIL
+11C3,B06_01_01,Grade G,FAIL
+11C3,F07_02_03,Grade B,FAIL
+11C3,F07_02_02,Grade I,FAIL
+11C3,B06_02_04,Grade I,FAIL
+11C3,A05_02_01,Grade B,FAIL
+11C3,B06_02_02 ,Grade C,FAIL
+11C3,B06_02_03,Grade E,PASS
+11C3,G06_02_02,Grade C,FAIL
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+508ACT336A701-06E2,B09_02_02,,
+508ACT336A701-06E2,E03_02_02 ,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,N/A,
+,,N/A,Fail
+,,,Fail
